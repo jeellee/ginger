@@ -1,0 +1,79 @@
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 242-447-250
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO _internal.py:88  * Detected change in 'D:\\learn\\mycode\\ginger\\app\\api\\v1\\token.py', reloading
+INFO _internal.py:88  * Restarting with stat
+WARNING _internal.py:88  * Debugger is active!
+INFO _internal.py:88  * Debugger PIN: 242-447-250
+INFO _internal.py:88  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO token.py:19 11111111111111
+INFO token.py:38 2222222222222
+ERROR token.py:39 2222222222222
+INFO _internal.py:88 127.0.0.1 - - [28/Nov/2018 22:40:25] "POST /v1/token HTTP/1.1" 201 -
+INFO _internal.py:88  * Detected change in 'D:\\learn\\mycode\\ginger\\app\\__init__.py', reloading
+INFO _internal.py:88  * Restarting with stat
+2018-11-28 22:44:21,430 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2018-11-28 22:44:21,441 - INFO - _internal.py - _log - 88 -  * Debugger PIN: 242-447-250
+2018-11-28 22:44:21,543 - INFO - _internal.py - _log - 88 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-11-28 22:44:21,784 - INFO - token.py - get_token - 19 - 11111111111111
+2018-11-28 22:44:22,069 - INFO - token.py - get_token - 38 - 2222222222222
+2018-11-28 22:44:22,070 - ERROR - token.py - get_token - 39 - 2222222222222
+2018-11-28 22:44:22,191 - INFO - _internal.py - _log - 88 - 127.0.0.1 - - [28/Nov/2018 22:44:22] "POST /v1/token HTTP/1.1" 201 -
+2018-11-28 22:44:38,100 - INFO - _internal.py - _log - 88 -  * Restarting with stat
+2018-11-28 22:44:41,881 - WARNING - _internal.py - _log - 88 -  * Debugger is active!
+2018-11-28 22:44:41,899 - INFO - _internal.py - _log - 88 -  * Debugger PIN: 242-447-250
+2018-11-28 22:44:41,952 - INFO - _internal.py - _log - 88 -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-11-28 22:44:46,827 - INFO - token.py - get_token - 19 - 11111111111111
+2018-11-28 22:44:47,158 - INFO - token.py - get_token - 38 - 2222222222222
+2018-11-28 22:44:47,158 - ERROR - token.py - get_token - 39 - 2222222222222
+2018-11-28 22:44:47,170 - INFO - _internal.py - _log - 88 - 127.0.0.1 - - [28/Nov/2018 22:44:47] "POST /v1/token HTTP/1.1" 201 -
+2018-11-28 22:53:04,796 - INFO - _internal.py - _log - 88 -  * Detected change in 'D:\\learn\\mycode\\ginger\\app\\__init__.py', reloading
+2018-11-28 22:53:04,923 - INFO - _internal.py - _log - 88 -  * Restarting with stat
+2018-11-28 22:54:38,548 - INFO - _internal.py - _log - 88 -  * Restarting with stat
+2018-11-28 22:55:29,725 - INFO - token.py - get_token - 20 - 11111111111111
+2018-11-28 22:55:30,034 - INFO - token.py - get_token - 39 - 2222222222222
+2018-11-28 22:55:30,034 - ERROR - token.py - get_token - 40 - 2222222222222
+2018-11-28 22:59:25,390 - INFO - event.py - get_event - 18 - get_event: 1
+2018-12-02 14:08:35 - INFO - token_auth.py - get_mina_openid - 73 - get_mina_openid: res is {'errcode': 40029, 'errmsg': 'invalid code, hints: [ req_id: G5MQTA0914hb39 ]'}
+2018-12-02 14:37:23 - INFO - token.py - get_token - 20 - 11111111111111
+2018-12-02 14:37:23 - INFO - token.py - get_token - 39 - 2222222222222
+2018-12-02 14:37:23 - ERROR - token.py - get_token - 40 - 2222222222222
+2018-12-02 14:39:45 - INFO - token.py - get_token - 20 - 11111111111111
+2018-12-10 22:27:30 - INFO - event.py - get_event - 18 - get_event: 1
+2018-12-10 22:27:30 - ERROR - event.py - get_event - 20 - 99999999999999999999999999999: <Event 1>
+2018-12-10 22:28:54 - INFO - topic.py - create - 42 - topic create: params is {'event_id': 1, 'name': '´ÞÓÀÔªvs·¶±ù±ù', 'start_time': 100, 'end_time': 1540043750, 'red_topic': 'Ö§³Ö´ÞÓÀÔª', 'blue_topic': 'Ö§³Ö·¶±ù±ù'}
+2018-12-10 22:31:35 - INFO - topic.py - create - 42 - topic create: params is {'event_id': 1, 'name': '´ÞÓÀÔªvs·¶±ù±ù', 'start_time': 100, 'end_time': 1540043750, 'red_topic': 'Ö§³Ö´ÞÓÀÔª', 'blue_topic': 'Ö§³Ö·¶±ù±ù', 'bg': 'static/fbb_cyy.png'}
+2018-12-10 22:33:05 - INFO - topic.py - create - 42 - topic create: params is {'event_id': 1, 'name': '´ÞÓÀÔªvs·¶±ù±ù', 'start_time': 100, 'end_time': 1540043750, 'red_topic': 'Ö§³Ö´ÞÓÀÔª', 'blue_topic': 'Ö§³Ö·¶±ù±ù', 'bg': 'static/fbb_cyy.png'}
+2018-12-10 22:33:51 - INFO - topic.py - create - 42 - topic create: params is {'event_id': 1, 'name': '´ÞÓÀÔªvs·¶±ù±ù', 'start_time': 100, 'end_time': 1540043750, 'red_topic': 'Ö§³Ö´ÞÓÀÔª', 'blue_topic': 'Ö§³Ö·¶±ù±ù', 'bg': 'static/fbb_cyy.png'}
+2018-12-10 22:36:40 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 1}
+2018-12-10 22:37:15 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 1}
+2018-12-10 22:38:24 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 1}
+2018-12-10 22:38:53 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 1}
+2018-12-10 22:42:57 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 0}
+2018-12-10 22:43:05 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 0}
+2018-12-10 22:43:07 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 0}
+2018-12-10 22:43:08 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 0}
+2018-12-10 22:43:12 - INFO - topic.py - vote - 70 - topic vote: params is {'vote_topic': 1, 'vote_who': 1}
+2018-12-10 22:58:30 - INFO - topic.py - get_vote - 35 - topic vote data: 1-<class 'int'>
+2018-12-10 23:02:12 - INFO - topic.py - get_vote - 35 - topic vote data: 1-<class 'int'>
+2018-12-19 22:50:01 - INFO - token_auth.py - verify_password - 28 - 1111111111 eyJhbGciOiJIUzUxMiIsImlhdCI6MTU0MzQxNjkzMCwiZXhwIjoxNTQ2MDA4OTMwfQ.eyJ1aWQiOjEsInR5cGUiOjEwMCwic2NvcGUiOiJVc2VyU2NvcGUifQ.jhaXzQeDS4Z8FlRBHWdMzTIZQvBCevDg-0daPRw2hHJNh9Dd1eo9mhTw_oY90UeOdOEnTKWiyCS3ogS-QeM1Kw
+2018-12-19 22:50:01 - INFO - event.py - get_event - 18 - get_event: 1
+2018-12-19 22:50:01 - ERROR - event.py - get_event - 20 - 99999999999999999999999999999: <Event 1>
+2018-12-19 22:51:53 - INFO - token.py - get_token - 20 - 11111111111111
+2018-12-19 22:51:53 - INFO - token.py - get_token - 39 - 2222222222222
+2018-12-19 22:51:53 - ERROR - token.py - get_token - 40 - 2222222222222
+2018-12-19 22:57:44 - INFO - token_auth.py - verify_password - 29 - 00000000000 Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 6fdc4fab-549e-4779-919b-300c0d7583a4
+Authorization: Basic ZXlKaGJHY2lPaUpJVXpVeE1pSXNJbWxoZENJNk1UVTBNelF4Tmprek1Dd2laWGh3SWpveE5UUTJNREE0T1RNd2ZRLmV5SjFhV1FpT2pFc0luUjVjR1VpT2pFd01Dd2ljMk52Y0dVaU9pSlZjMlZ5VTJOdmNHVWlmUS5qaGFYelFlRFM0WjhGbFJCSFdkTXpUSVpRdkJDZXZEZy0wZGFQUncyaEhKTmg5RGQxZW85bWhUd19vWTkwVWVPZE9FblRLV2l5Q1Mzb2dTLVFlTTFLdzo=
+User-Agent: PostmanRuntime/7.4.0
+Accept: */*
+Host: 127.0.0.1:5000
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+2018-12-19 22:57:44 - INFO - token_auth.py - verify_password - 30 - 1111111111 eyJhbGciOiJIUzUxMiIsImlhdCI6MTU0MzQxNjkzMCwiZXhwIjoxNTQ2MDA4OTMwfQ.eyJ1aWQiOjEsInR5cGUiOjEwMCwic2NvcGUiOiJVc2VyU2NvcGUifQ.jhaXzQeDS4Z8FlRBHWdMzTIZQvBCevDg-0daPRw2hHJNh9Dd1eo9mhTw_oY90UeOdOEnTKWiyCS3ogS-QeM1Kw
+2018-12-19 22:57:44 - INFO - event.py - get_event - 18 - get_event: 1
+2018-12-19 22:57:44 - ERROR - event.py - get_event - 20 - 99999999999999999999999999999: <Event 1>
